@@ -1,5 +1,5 @@
 # ATM
-## implement ATM bank core with Verilog HDL
+## implement ATM bank core with System Verilog HDL
 ![ATM](ATM/images/1.jpg "ATM") *Top Module*
 
 ## FSM 
